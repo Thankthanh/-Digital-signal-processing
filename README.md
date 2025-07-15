@@ -1,4 +1,4 @@
-# 📡 Digital Signal Processing with MATLAB
+
 
 This project contains MATLAB scripts and resources for designing, simulating, and experimenting with digital filters. It is organized to support learning and research in digital signal processing (DSP).
 
