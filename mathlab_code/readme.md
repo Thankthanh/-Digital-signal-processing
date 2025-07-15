@@ -24,7 +24,7 @@ Designs with various characteristics:
 - FIR filters: low-pass, high-pass, stopband, passband, multiband
 - IIR filters: low-pass, stopband, passband, multiband
 
-## 🛠️ Usage
+## Usage
 Each `.m` file can be run independently in MATLAB to generate filter responses or apply filters to signal inputs. These are especially helpful for learning DSP concepts or experimenting with custom filter configurations.
 
 ---
