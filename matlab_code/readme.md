@@ -2,7 +2,7 @@
 
 This repository contains MATLAB source code for simulating and designing digital filters, including both FIR (Finite Impulse Response) and IIR (Infinite Impulse Response) types. It is tailored for educational and research purposes in digital signal processing.
 
-## 📁 File Overview
+## File Overview
 
 ### 1. Sample Signal Files (`a0_*.m`)
 These represent input signal types used for testing filter behavior:
